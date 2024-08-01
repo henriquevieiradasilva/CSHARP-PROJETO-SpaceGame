@@ -1,4 +1,4 @@
-# 👨🏾‍💻 __C#__ - Projeto ___"Space Game"___
+# 👨🏾‍💻 __C#__ - Projeto ___"Space Game"___ - Versão Inicial
 
 Este repositório contém um dos meus primeiros projetos, criado em 2021 utilizando a __linguagem C#__. Embora esta aplicação desktop __não represente__ minhas __habilidades__ e __níveis atuais__ em programação, ela tem um __valor sentimental__ significativo para mim.
 
@@ -6,31 +6,30 @@ Na época, eu estava cursando técnico em informática junto com o ensino médio
 
 Mesmo não alcançando o resultado esperado, lembro-me de como foi uma missão ambiciosa para alguém com minha experiência na época. Eventualmente, tive que me concentrar nas provas e acabei deixando o projeto de lado. Anos depois, encontrei este projeto nos fundos do meu HD e refleti sobre como a área de programação é adequada para mim. Mesmo de forma limitada, aprendi a utilizar minha criatividade e a me adaptar aos problemas.
 
-<br>
 
 Neste projeto, foi possível demonstrar que sempre tive aptidão para:
 - __Ser criativo e pensar por diferentes perspectivas;__
 - __Manter a concentração, mesmo sob pressão externa;__
 - __Adaptar-me aos problemas e encontrar soluções.__
 
-<br>
-
 No futuro, pretendo recriar este mini-game do zero, como um hobby e uma homenagem a esse período. Colocarei em prática tudo o que imaginei para ele. Embora a "gameplay" atual dure no máximo 1 minuto, sinto orgulho de ter criado algo tão inusitado com poucos recursos e sob grande pressão.
 
 <br>
   
-## Descrição geral do projeto:
+## Descrição geral resumida do projeto:
 
-- Nome: Space Game
-- Descrição: Mini-game clássico de foguetes no espaço.
-- Objetivo: Destruir corpos celestes que estejam no caminho da espaçonave.
-- Plataforma de Desenvolvimento utilizada: Visual Studio - Aplicativo Windows Forms (.NET Framework).
-- Linguagem de Programação utilizada: C#
+- Nome: __Space Game__
+- Descrição: __Mini-game clássico de foguetes no espaço.__
+- Objetivo: __Destruir corpos celestes que estejam no caminho da espaçonave.__
+- Plataforma de Desenvolvimento utilizada: __Visual Studio - Aplicativo Windows Forms (.NET Framework).__
+- Linguagem de Programação utilizada: __C#__
+- Dispositivos destinados: __Desktop ou outro equipamento com Windows 10/11.__ 
  
 <br>
 
-## Descrição detalhada do projeto:
+## Instalação:
 
+A pasta completa disponível neste repositório contém o projeto completo. Para somente instalar o jogo, basta fazer o download dos dois arquivos da pasta "instalador SPACE GAME". __[Clique aqui](https://github.com/henriquevieiradasilva/CSHARP-PROJETO-SpaceGame-VersaoInicial/tree/main/Space%20game/Teste/Instalador/instalador%20SPACE%20GAME/Debug)__ para acessar essa pasta. Faça o download dos arquivos .msi e .exe. Após baixar os arquivos, vá para a pasta de "Downloads" do seu dispositivo e clique duas vezes no arquivo executável ("setup.exe"). Siga as instruções e, em menos de 2 minutos, você terá instalado a versão inicial do SPACE GAME.
 
 <br>
   
