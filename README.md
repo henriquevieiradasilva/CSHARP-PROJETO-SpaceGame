@@ -19,7 +19,7 @@ No futuro, pretendo recriar este mini-game do zero, como um hobby e uma homenage
 ## Descrição geral resumida do projeto:
 
 - Nome: __Space Game__
-- Descrição: __Mini-game clássico de foguetes no espaço.__
+- Descrição: __Mini-game 2D clássico de foguetes no espaço.__
 - Objetivo: __Destruir corpos celestes que estejam no caminho da espaçonave.__
 - Plataforma de Desenvolvimento utilizada: __Visual Studio - Aplicativo Windows Forms (.NET Framework).__
 - Linguagem de Programação utilizada: __C#__
