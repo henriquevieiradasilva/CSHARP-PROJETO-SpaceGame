@@ -1,0 +1,32 @@
+E:\PROJETOS\teste\Teste\Teste\bin\Debug\Teste.exe.config
+E:\PROJETOS\teste\Teste\Teste\bin\Debug\Teste.exe
+E:\PROJETOS\teste\Teste\Teste\bin\Debug\Teste.pdb
+E:\PROJETOS\teste\Teste\Teste\obj\Debug\SPACE GAME.csproj.AssemblyReference.cache
+E:\PROJETOS\teste\Teste\Teste\obj\Debug\SPACE GAME.csproj.SuggestedBindingRedirects.cache
+E:\PROJETOS\teste\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+E:\PROJETOS\teste\Teste\Teste\obj\Debug\Teste.TELAjogo.resources
+E:\PROJETOS\teste\Teste\Teste\obj\Debug\SPACE GAME.csproj.GenerateResource.cache
+E:\PROJETOS\teste\Teste\Teste\obj\Debug\SPACE GAME.csproj.CoreCompileInputs.cache
+E:\PROJETOS\teste\Teste\Teste\obj\Debug\Teste.exe
+E:\PROJETOS\teste\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\obj\Debug\SPACE GAME.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\obj\Debug\SPACE GAME.csproj.SuggestedBindingRedirects.cache
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\obj\Debug\Teste.TELAjogo.resources
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\obj\Debug\SPACE GAME.csproj.GenerateResource.cache
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\obj\Debug\SPACE GAME.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\henri\Desktop\BECKUP VIEIRA\PENDRAS\TUDO\TUDO O RESTO\TUDO\z\PROJETOS\EM PROCESSO\teste\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\obj\Debug\SPACE GAME.csproj.AssemblyReference.cache
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\obj\Debug\Teste.TELAjogo.resources
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\obj\Debug\SPACE GAME.csproj.GenerateResource.cache
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\obj\Debug\SPACE GAME.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Henrique Vieira\Desktop\BACKUP\BACKUP GERAL\PROGRAMAÇÃO\C#\Space game\Teste\Teste\obj\Debug\Teste.pdb
